@@ -12,8 +12,8 @@ This contains tips and trick concerning minecraft bedrock server and cross platf
 
 # Use
 * on Windows Minecraft Bedrock client (and maybe Xbox too), the IP can be just added, and server can be connected
-  * sometimes the server just appears in the second tab "Friends" (not always)
-* Nintendo Switch client due some really annoying reasons has access to only 5 servers, and no other can be added
+  * sometimes the server just appears in the second tab "Friends" (as LAN-Games, but not always)
+* Nintendo Switch client due some really annoying reasons has access to only 5 servers, and no other can be added, it also does not see the LAN-Games
   * there are relatively easy ways to do DNS workaround
   * there are some external DNS servers allowing connection to any server (I do not like to use external services)
   * I will describe my simple approach later
