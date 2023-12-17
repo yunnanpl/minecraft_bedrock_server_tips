@@ -9,3 +9,11 @@ This contains tips and trick concerning minecraft bedrock server and cross platf
   * so sometimes it is visible and sometimes not
   * probably it has something to do with the value of the second opened UDP port
   * solution: restart the server a few times, until it appears
+
+# Use
+* on Windows Minecraft Bedrock client (and maybe Xbox too), the IP can be just added, and server can be connected
+  * sometimes the server just appears in the second tab "Friends" (not always)
+* Nintendo Switch client due some really annoying reasons has access to only 5 servers, and no other can be added
+  * there are relatively easy ways to do DNS workaround
+  * there are some external DNS servers allowing connection to any server (I do not like to use external services)
+  * I will describe my simple approach later
